@@ -1,6 +1,6 @@
 # 🔺 Cálculo de Área de Triângulos em Java (POO)
 
-Este projeto foi desenvolvido como parte do meu **treinamento em Programação Orientada a Objetos (POO)** durante o **estágio na SULTS**, utilizando o curso [**Java COMPLETO – Programação Orientada a Objetos + Projetos**](https://www.udemy.com/course/java-curso-completo/).
+Este projeto foi desenvolvido como parte do meu **treinamento em Programação Orientada a Objetos (POO)**, utilizando o curso [**Java COMPLETO – Programação Orientada a Objetos + Projetos**](https://www.udemy.com/course/java-curso-completo/).
 
 ---
 
@@ -90,8 +90,4 @@ Com este projeto foi possível reforçar:
 
 **Yuri Duarte**
 
-Estagiário na **SULTS**
-
-Treinamento em **Java e Programação Orientada a Objetos**
-
----
+Treinamento corporativo em **Java e Programação Orientada a Objetos**
